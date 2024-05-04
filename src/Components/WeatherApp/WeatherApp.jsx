@@ -83,7 +83,7 @@ const WeatherApp = () => {
       setLoading(false);
     }
   };
-  // Hangling Enter Key
+  // Handling Enter Key
   const handleKeyDown = (e) => {
     if (e.key === "Enter") {
       search();
@@ -98,7 +98,7 @@ const WeatherApp = () => {
         <input
           type="text"
           className="cityInput"
-          placeholder="Search"
+          placeholder="Location"
           onChange={handleCity}
           value={text}
           onKeyDown={handleKeyDown}
