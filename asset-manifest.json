@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Skyward/static/css/main.381ffc5e.css",
-    "main.js": "/Skyward/static/js/main.8c5ff406.js",
+    "main.css": "/Skyward/static/css/main.513eaca5.css",
+    "main.js": "/Skyward/static/js/main.18966b6c.js",
     "static/js/453.0ccb7fb4.chunk.js": "/Skyward/static/js/453.0ccb7fb4.chunk.js",
-    "static/media/default.png": "/Skyward/static/media/default.a04b32412c8c180499ce.png",
+    "static/media/default.png": "/Skyward/static/media/default.61ec358792b7b98c2a9e.png",
     "static/media/cloud.png": "/Skyward/static/media/cloud.20f353f873a9b27949a9.png",
     "index.html": "/Skyward/index.html",
-    "main.381ffc5e.css.map": "/Skyward/static/css/main.381ffc5e.css.map",
-    "main.8c5ff406.js.map": "/Skyward/static/js/main.8c5ff406.js.map",
+    "main.513eaca5.css.map": "/Skyward/static/css/main.513eaca5.css.map",
+    "main.18966b6c.js.map": "/Skyward/static/js/main.18966b6c.js.map",
     "453.0ccb7fb4.chunk.js.map": "/Skyward/static/js/453.0ccb7fb4.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.381ffc5e.css",
-    "static/js/main.8c5ff406.js"
+    "static/css/main.513eaca5.css",
+    "static/js/main.18966b6c.js"
   ]
 }
